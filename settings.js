@@ -7,11 +7,11 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
 global.botname = "Queen Anya" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
+global.websitex = "https://github.com/NeoX" // Website to be displayed //
+global.botscript = 'https://github.com/neerajksd/NeoX' // Script link //
 global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
+global.author = "🥵3.69_Neo" // sticker watermark author //
+actiontitle = '࿙⚜Neo⚜࿚' // text who displays on the top of welcome and left message //
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             

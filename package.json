@@ -1,5 +1,5 @@
 {
-  "name": "Anya-MD",
+  "name": "NeoX",
   "version": "2.0.4",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "nexus.js",
@@ -86,10 +86,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikaBotz/Anya-pika-MD-v2"
+    "url": "git+https://github.com/neerajksd/NeoX"
   },
   "bugs": {
-    "url": "https://github.com/PikaBotz/Anya-pika-MD-v2/issues"
+    "url": "https://github.com/PikaBotz/neerajksd/NeoX"
   },
-  "homepage": "https://github.com/PikaBotz/Anya-pika-MD-v2#readme"
+  "homepage": "https://github.com/neerajksd/NeoX#readme"
 }
